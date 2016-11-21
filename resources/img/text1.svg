@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 300 100" style="enable-background:new 0 0 300 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#939598;}
+	.st1{font-family:'ChalkboardSE-Regular';}
+	.st2{font-size:17px;}
+	.st3{fill:none;stroke:#939598;stroke-width:2;stroke-miterlimit:10;}
+	.st4{fill:#939598;stroke:#939598;stroke-width:2;stroke-miterlimit:10;}
+	.st5{fill:#FFFFFF;}
+</style>
+<text id="XMLID_1_" transform="matrix(1 0 0 1 85.5 64.5)" class="st0 st1 st2">click for adding </text>
+<path id="XMLID_3_" class="st3" d="M131.5,15.9c9.9,1.8,15.9,12.8,13.7,24.9"/>
+<line id="XMLID_2_" class="st3" x1="132.2" y1="15.7" x2="136.3" y2="21.2"/>
+<line id="XMLID_4_" class="st4" x1="132" y1="15.9" x2="139.2" y2="15.4"/>
+<rect id="XMLID_5_" x="130.8" y="13.3" transform="matrix(0.9949 -0.1007 0.1007 0.9949 -0.7505 13.3845)" class="st5" width="2.8" height="1.6"/>
+<rect id="XMLID_6_" x="129.9" y="16.7" transform="matrix(0.5753 0.818 -0.818 0.5753 70.1352 -99.9753)" class="st5" width="2.8" height="1.6"/>
+<ellipse id="XMLID_7_" class="st0" cx="131.9" cy="15.7" rx="0.8" ry="0.7"/>
+<text id="XMLID_10_" transform="matrix(1 0 0 1 108.5 88)" class="st0 st1 st2">the first label</text>
+</svg>
